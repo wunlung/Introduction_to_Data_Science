@@ -1,0 +1,8 @@
+# Introdocution
+This part is about SQL.
+* Some simple query
+* Matrix Mulitplication in SQL
+* Working with a Term-Document Matrix to compute similarity and achieve 
+  keyword search
+
+Scripts are well commented to show what are they doing.
